@@ -1,19 +1,13 @@
 We Ski
-<!-- Disabled badges that don't have the backend set up yet.
-[![Build Status]][actions] [![Code Progress]][progress] [![Data Progress]][progress] 
--->
-[![Discord Badge]][discord]
+[![Build Status]][actions] [![Code Progress]][progress] [![Data Progress]][progress] [![Discord Badge]][discord]
 =============
-<!-- These don't exist yet. Disabling it until there's actually something to put here.
 [Build Status]: https://github.com/enbyd/kamakura/actions/workflows/build.yml/badge.svg
 [actions]: https://github.com/enbyd/kamakura/actions/workflows/build.yml
--->
-<!-- See https://decomp.dev/api for an API overview. -->
-<!-- Also not integrated with decomp.dev yet. Just using reasonable filler text.
+
 [Data Progress]: https://decomp.dev/enbyd/kamakura.svg?mode=shield&measure=data&label=Data
 [Code Progress]: https://decomp.dev/enbyd/kamakura.svg?mode=shield&measure=code&label=Code
 [progress]: https://decomp.dev/enbyd/kamakura
--->
+
 [Discord Badge]: https://img.shields.io/discord/727908905392275526?color=%237289DA&logo=discord&logoColor=%23FFFFFF
 [discord]: https://discord.gg/hKx3FJJgrV
 
